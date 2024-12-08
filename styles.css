@@ -21,3 +21,8 @@ footer {
     background: #ddd;
     margin-top: 20px;
 }
+.left-aligned-image {
+    margin-left: 0; /* Removes any left margin */
+    float: left; /* Aligns the image to the left side */
+}
+
